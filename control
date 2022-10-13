@@ -1,0 +1,10 @@
+Package: com.34306.espff
+Name: ESP Free Fire Mod Menu
+Depends: mobilesubstrate
+Version: 1.93.1
+Architecture: iphoneos-arm
+Description: Free Fire Mod Menu by 34306!
+Maintainer: Little 34306
+Author: 34306
+Section: Tweaks
+
