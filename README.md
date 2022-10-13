@@ -1,7 +1,7 @@
 # ESP FreeFire
 
 <div style="text-align: center;">
-<b>ESP source code for Free Fire (iOS jailbreak).</b><br><br>
+<b>ESP source code for Free Fire (iOS jailbreak, Free Fire version: 1.93.1).</b><br><br>
 
 <img src="https://raw.githubusercontent.com/34306/ESP_FreeFire/main/Preview.PNG">
 </div>
